@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/internet_censorship.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/internet_censorship.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/censorship_detection-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/censorship_detection-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/censorship_detection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/censorship_detection.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,7 +53,17 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="internet-cnesorship-research" type="b2602c69:ProjectViewProjectNode" />
+              <item name="internet-cnesorship-research" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -108,6 +119,7 @@
       <workItem from="1560521660202" duration="79000" />
       <workItem from="1560521881500" duration="484000" />
       <workItem from="1560522387443" duration="9320000" />
+      <workItem from="1560627787855" duration="86000" />
     </task>
     <task id="LOCAL-00001" summary="basic three way handshake done">
       <created>1559456900287</created>
@@ -127,7 +139,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36123000" />
+    <option name="totallyTimeSpent" value="36303000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -139,10 +151,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="50" y="26" width="1550" height="874" extended-state="6" />
-    <editor active="true" />
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09880637" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24681793" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
