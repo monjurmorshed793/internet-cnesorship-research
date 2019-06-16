@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5638b7c-5448-45e4-9118-82811ce2f84e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/internet_censorship.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/internet_censorship.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/censorship_detection-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/censorship_detection-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/censorship_detection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/censorship_detection.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="a5638b7c-5448-45e4-9118-82811ce2f84e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +46,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -64,6 +57,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -120,6 +114,7 @@
       <workItem from="1560521881500" duration="484000" />
       <workItem from="1560522387443" duration="9320000" />
       <workItem from="1560627787855" duration="86000" />
+      <workItem from="1560627887299" duration="58000" />
     </task>
     <task id="LOCAL-00001" summary="basic three way handshake done">
       <created>1559456900287</created>
@@ -135,11 +130,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560027971672</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="continued work">
+      <created>1560627913034</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1560627913034</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36303000" />
+    <option name="totallyTimeSpent" value="36361000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -153,7 +155,7 @@
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24681793" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958494" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -207,7 +209,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="basic three way handshake done" />
     <MESSAGE value="tcp 3 way handshake made worked" />
-    <option name="LAST_COMMIT_MESSAGE" value="tcp 3 way handshake made worked" />
+    <MESSAGE value="continued work" />
+    <option name="LAST_COMMIT_MESSAGE" value="continued work" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-991823270/_socket.py" />
